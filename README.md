@@ -8,7 +8,7 @@ Este repositório contém uma análise exploratória de dados (EDA) e estatísti
 
 Além do Python, veja o arquivo `requirements.txt` para detalhes dos pacotes e versões usados. A primeira célula de código executa um comando para baixar as dependências do projeto.
 
-## 2.🎯 Objetivos Principais
+## 2. Objetivos Principais
 
 - Análise Exploratória: Investigar padrões nos dados cinematográficos
 - Predição de notas: Criar algoritmos para estimar avaliações IMDb
